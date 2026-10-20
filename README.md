@@ -28,3 +28,7 @@ A research library on anti-trans rhetoric: the talking points, where they come f
 ## Origin
 
 Started in October 2026 from research done for the [Bot Traffic Monitor](https://emmalegrottaglie.github.io/Russian-Bot-Monitor/), which tracks political activity online and added anti-trans searches on X. That project's `docs/NARRATIVES.md` holds the original notes.
+
+## Plans
+
+- **Website.** The library will become its own GitHub Pages site (`<user>.github.io/<repo>`) once the content has been checked. It is written in plain Markdown so that GitHub Pages can publish it directly, or a static site can be built from it later, possibly with the terminal design kit from the Bot Traffic Monitor. Until then it stays local.
