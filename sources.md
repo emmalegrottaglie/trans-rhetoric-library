@@ -20,6 +20,11 @@ Every source, in our words. **Checked** means read on the original page. *Unveri
 | [The 74](https://www.the74million.org/article/in-private-texts-ny-ed-council-reps-congressional-candidate-demean-lgbtq-kids/) | 14 Dec 2023 | A New York City education council member wrote "There is no such thing as trans kids" in a parents' group chat; the education department called it "despicable" | Checked |
 | [LGBTQ Nation, Gwendolyn Smith](https://www.lgbtqnation.com/2019/04/woman-just-shattered-one-biggest-myths-transgender-womens-bodies/) | 11 Apr 2019 | Christine Burns MBE on the myth that vaginoplasty leaves a wound that must be kept from closing | Checked |
 | Burns tracing the "wound" claim to Germaine Greer's *The Whole Woman* | — | — | *Unverified*: from a search summary |
+| [Erin in the Morning, Erin Reed](https://www.erininthemorning.com/p/tx-dem-collin-allred-responds-to) | 11 Oct 2024 | Calls "boys in girls' sports" a common Republican anti-trans dogwhistle; gives no source for the label | Checked |
+| [Erin in the Morning, s. baum](https://www.erininthemorning.com/p/fact-check-lists-claiming-hundreds) | 23 Apr 2025 | The HeCheated and SheWon lists of presumed-trans athletes are largely uncorroborated or wrong; SheWon was announced on Ovarit; repeated by a US senator, a UN rapporteur's report and national media | Checked |
+| [Erin in the Morning, s. baum](https://www.erininthemorning.com/p/extremist-online-forum-connected) | 28 Apr 2025 | Ovarit, the invite-only forum that grew out of r/GenderCritical after Reddit banned it in 2020, closed on 27 April 2025 | Checked |
+| [Erin in the Morning, s. baum](https://www.erininthemorning.com/p/republican-senator-attacks-netflix) | 5 Feb 2026 | Calls "transgender ideology" and "gender ideology" far-right dog whistles, citing Human Rights Watch | Checked |
+| [Transitics, Aleksandra Vaca](https://www.transiticsnews.com/) | — | News on policy, courts and politicians affecting trans people; recent archive (Aug to Oct 2026) has no piece on online communities yet | Checked (archive page) |
 | [GLAAD, "gender ideology"](https://glaad.org/gender-ideology-definition-meaning-anti-lgbt-online-hate/) | — | Glossary entry on the term | *Unverified*: not opened |
 
 ## Reference libraries
