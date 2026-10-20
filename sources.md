@@ -26,6 +26,8 @@ Every source, in our words. **Checked** means read on the original page. *Unveri
 | [Erin in the Morning, s. baum](https://www.erininthemorning.com/p/extremist-online-forum-connected) | 28 Apr 2025 | Ovarit, the invite-only forum that grew out of r/GenderCritical after Reddit banned it in 2020, closed on 27 April 2025 | Checked |
 | [Erin in the Morning, s. baum](https://www.erininthemorning.com/p/republican-senator-attacks-netflix) | 5 Feb 2026 | Calls "transgender ideology" and "gender ideology" far-right dog whistles, citing Human Rights Watch | Checked |
 | [Transitics, Aleksandra Vaca](https://www.transiticsnews.com/) | — | News on policy, courts and politicians affecting trans people; recent archive (Aug to Oct 2026) has no piece on online communities yet | Checked (archive page) |
+| [Transitics, Aleksandra Vaca](https://www.transiticsnews.com/p/this-week-theres-been-a-massive-escalation) | 19 Sep 2025 | After Charlie Kirk's killing, right-wing figures escalated anti-trans proposals; "transgender extremist" moved from a right-wing media dog whistle toward legal use (an FBI label for trans suspects; the Heritage Foundation's proposed "TIVE") | Checked |
+| [Transitics, Aleksandra Vaca](https://www.transiticsnews.com/p/conservatives-escalate-false-claims) | 11 Feb 2026 | After the Tumbler Ridge shooting, public figures blamed trans people as a group; calls the "trans violence" narrative a hoax, citing FactCheck.org that trans people were behind under 0.1% of mass shootings since 2013 | Checked (the FactCheck.org analysis itself not yet read) |
 | [GLAAD, "gender ideology"](https://glaad.org/gender-ideology-definition-meaning-anti-lgbt-online-hate/) | — | Glossary entry on the term | *Unverified*: not opened |
 
 ## Reference libraries

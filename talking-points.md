@@ -49,6 +49,18 @@ Each entry: what it claims or does, who documents it, and what we measured. Rebu
 
 "Gender critical" (about 20 a day), "AGP" (about 24), "what is a woman" (about 6), "trans ideology" (about 6), "biological male" (about 3), "adult human female" and "autogynephilia" (about 2). Beth's library covers autogynephilia, "What is a woman?" and the film *Adult Human Female* (checked: pages listed). None counted on X yet.
 
+### "Sex-based rights" and "single-sex spaces"
+
+- **What it claims:** that trans people's rights take something away from women's rights.
+- **Documented by:** Mendelsohn et al. (ACL 2023) list "sex-based rights" as a transphobic dog whistle, citing a Medium post by David Allsopp (checked: paper and glossary). Related entries in their glossary include "sex is real", "biological woman" and "mixed sex". "Single-sex spaces", "single-sex rights" and "biology-based rights" were proposed by Emma; no source documenting them has been checked yet.
+- **Measured:** not yet. "Single-sex spaces" also appears in ordinary discussion of toilets, changing rooms and services, so it needs a hand check before any count means anything.
+
+### "Trans violence" and the "trans shooter" myth
+
+- **What it claims:** that trans people are disproportionately violent, especially as mass shooters.
+- **Documented by:** Transitics (Aleksandra Vaca, 11 February 2026) reports public figures blaming trans people as a group after the Tumbler Ridge shooting and calls the narrative a hoax, citing FactCheck.org that trans people were behind under 0.1% of mass shootings since 2013 (checked: Transitics; FactCheck.org not yet read). Transitics (19 September 2025) reports "transgender extremist" moving from a right-wing media dog whistle toward an FBI label (checked).
+- **Measured:** not yet. Counts of "trans violence" would include reporting and rebuttals.
+
 ## Influence-operation topics
 
 ### "Trans youth", "Woke Wars"
