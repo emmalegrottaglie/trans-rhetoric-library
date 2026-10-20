@@ -4,7 +4,10 @@ What is documented so far, kept separate from what is still a question. This fil
 
 ## What is documented
 
-### Most of it is domestic, and it concentrates on X
+### Domestic events drive it, and it concentrates on X
+
+Where it comes from is hard to tell. Accounts can claim any country, and influence operations use accounts that pass as local, so a post's apparent origin is weak evidence. The sources below show what drives spikes, not who posts.
+
 
 - **CCDH and the Human Rights Campaign (2022):** nearly a million tweets in seven months used slurs such as "groomer" about LGBTQ+ people, and "grooming" talk spiked after a specific law was passed. Political events drive the rhetoric.
 - **CCDH, "The Musk Bump" (2022):** tweets using one transphobic slur rose 62% (3,159 to 5,117 a day) after Twitter changed owner. Platform rules and enforcement change how much of it appears.
