@@ -11,6 +11,7 @@ Every source, in our words. **Checked** means read on the original page. *Unveri
 | [ISD, online extremist targeting of LGBTQ+ communities](https://www.isdglobal.org/digital-dispatch/offline-events-online-threats-analyzing-online-extremist-targeting-of-lgbtq-communities/) | 2025 | Over 97,000 anti-LGBTQ+ posts from more than 1,000 violent extremist channels, August 2024 to January 2025; targeted hate doubled around the US election; anti-trans content rose to 46% | Checked |
 | [DFRLab, Doppelganger and the US election](https://dfrlab.org/2024/09/18/doppelganger-us-election/) | Sept 2024 | A fake LGBTQ+ outlet run by the Russian operation Doppelganger filed stories under "Trans youth", "Athletes", "Woke Wars" and other topics | Checked |
 | EUvsDisinfo, Moldova | 2025 | Pro-Kremlin messaging about "NATO forcing an LGBTIQ+ agenda" and "the CIA undermines traditional values" | Recheck: noted in earlier research, link not recorded |
+| [Mendelsohn, Le Bras, Choi and Sap, "From Dogwhistles to Bullhorns", ACL 2023](https://aclanthology.org/2023.acl-long.845) | 2023 | A glossary of 340 English dog whistles, 73 of them transphobic (for example "sex-based rights"), in [juliamendelsohn/dogwhistles](https://github.com/juliamendelsohn/dogwhistles) (MIT). Most terms have more common ordinary meanings; transphobic ones were the hardest for GPT-3 to recognise, and dog whistles lower toxicity scores | Checked (paper) |
 | European Parliament study on anti-LGBTIQ disinformation | — | — | *Unverified*: seen only in a summary |
 
 ## Reporting
