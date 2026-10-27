@@ -58,5 +58,5 @@ Every source, in our words. **Checked** means read on the original page. *Unveri
 
 | Source | What it gives | Notes |
 |---|---|---|
-| X API post counts (`/2/tweets/counts`) | Hourly or daily counts of posts matching a search, no posts returned | Pay-per-use, about $0.005 per request for the last 7 days, $0.01 for the archive |
+| Twitter API post counts (`/2/tweets/counts`) | Hourly or daily counts of posts matching a search, no posts returned | Pay-per-use, about $0.005 per request for the last 7 days, $0.01 for the archive |
 | Bluesky public search (`app.bsky.feed.searchPosts`) | Up to 100 posts per request without login | Free; exact counts when a period has fewer than 100 posts |

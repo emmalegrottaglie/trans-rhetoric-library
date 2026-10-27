@@ -1,7 +1,7 @@
 ---
 title: "Measurements"
 eyebrow: the numbers
-description: "How often the phrases appear on X and Bluesky, with dates, method and what a count can't show."
+description: "How often the phrases appear on Twitter and Bluesky, with dates, method and what a count can't show."
 ---
 
 # Measurements
@@ -10,13 +10,13 @@ Counts taken for the Bot Traffic Monitor in October 2026. Only counts were colle
 
 ## What a count can't show
 
-- **A count includes people quoting a phrase to object.** On Bluesky, hand checks found most posts using anti-trans terms were pushing back. On X the share has not been checked.
+- **A count includes people quoting a phrase to object.** On Bluesky, hand checks found most posts using anti-trans terms were pushing back. On Twitter the share has not been checked.
 - **Phrases have other meanings.** "Groomer" is mostly pet grooming on Bluesky; "TRAs" matches the Spanish word "tras"; "gaping wound" is mostly about injuries.
 - **A count is not a count of people.** One account can post many times; reposts are counted separately.
 
-## X
+## Twitter
 
-X API post counts, English (`lang:en`), original posts only (`-is:retweet`) unless stated. "Before 8 Oct" covers the roughly 40 days from late August 2026.
+Twitter API post counts, English (`lang:en`), original posts only (`-is:retweet`) unless stated. "Before 8 Oct" covers the roughly 40 days from late August 2026.
 
 | Search | Posts a day | Notes |
 |---|---|---|
@@ -60,5 +60,5 @@ Exact daily counts from Bluesky's public search, 1 September to 17 October 2026 
 
 ## Ideas for further measurement
 
-- Count "groomer", "gender ideology" and "protect women" on X, where the rhetoric mostly is (about $0.03 for a week, $0.05 for 50 days each).
-- A paid hand check of what X posts using each phrase actually say (about $0.25 per 50 posts), to estimate how much is the rhetoric and how much is pushback.
+- Count "groomer", "gender ideology" and "protect women" on Twitter, where the rhetoric mostly is (about $0.03 for a week, $0.05 for 50 days each).
+- A paid hand check of what Twitter posts using each phrase actually say (about $0.25 per 50 posts), to estimate how much is the rhetoric and how much is pushback.

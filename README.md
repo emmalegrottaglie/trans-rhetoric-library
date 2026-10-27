@@ -10,7 +10,7 @@ A research library on anti-trans rhetoric: the talking points, where they come f
 |---|---|
 | [talking-points.md](talking-points.md) | Each talking point or slur: what it claims, who documents it, and what we measured |
 | [origins.md](origins.md) | What is documented so far about where the rhetoric comes from and why it spreads, and the open questions |
-| [measurements.md](measurements.md) | Counts of the phrases on X and Bluesky, with dates, method and limits |
+| [measurements.md](measurements.md) | Counts of the phrases on Twitter and Bluesky, with dates, method and limits |
 | [sources.md](sources.md) | Every source, what it says, and whether it was checked on the original page |
 
 ## Relationship to Beth's Anti-Transphobia Library
@@ -27,7 +27,7 @@ A research library on anti-trans rhetoric: the talking points, where they come f
 
 ## Origin
 
-Started in October 2026 from research done for the [Bot Traffic Monitor](https://emmalegrottaglie.github.io/Russian-Bot-Monitor/), which tracks political activity online and added anti-trans searches on X. That project's `docs/NARRATIVES.md` holds the original notes.
+Started in October 2026 from research done for the [Bot Traffic Monitor](https://emmalegrottaglie.github.io/Russian-Bot-Monitor/), which tracks political activity online and added anti-trans searches on Twitter. That project's `docs/NARRATIVES.md` holds the original notes.
 
 ## Website
 

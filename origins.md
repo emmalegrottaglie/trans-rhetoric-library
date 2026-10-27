@@ -11,7 +11,7 @@ What is documented so far, kept separate from what is still a question. This fil
 
 ## What is documented
 
-### Domestic events drive it, and it concentrates on X
+### Domestic events drive it, and it concentrates on Twitter
 
 Where it comes from is hard to tell. Accounts can claim any country, and influence operations use accounts that pass as local, so a post's apparent origin is weak evidence. The sources below show what drives spikes, not who posts.
 
@@ -19,7 +19,7 @@ Where it comes from is hard to tell. Accounts can claim any country, and influen
 - **CCDH and the Human Rights Campaign (2022):** nearly a million tweets in seven months used slurs such as "groomer" about LGBTQ+ people, and "grooming" talk spiked after a specific law was passed. Political events drive the rhetoric.
 - **CCDH, "The Musk Bump" (2022):** tweets using one transphobic slur rose 62% (3,159 to 5,117 a day) after Twitter changed owner. Platform rules and enforcement change how much of it appears.
 - **ISD (2025):** over 97,000 anti-LGBTQ+ posts from more than 1,000 violent extremist channels between August 2024 and January 2025. Targeted hate doubled around the US election, and anti-trans content rose to 46% of it. Elections and offline events drive spikes, and extremist networks are a source.
-- **Our measurements (October 2026):** the slur "troon" is used about 2,550 times a day on X in original English posts, and about 10 times a day on Bluesky. The same rhetoric is roughly 250 times as common on X. On Bluesky, most posts using anti-trans terms were pushing back against them.
+- **Our measurements (October 2026):** the slur "troon" is used about 2,550 times a day on Twitter in original English posts, and about 10 times a day on Bluesky. The same rhetoric is roughly 250 times as common on Twitter. On Bluesky, most posts using anti-trans terms were pushing back against them.
 
 ### It recycles older homophobia
 
@@ -44,7 +44,7 @@ These need research, each answered from checked sources:
 2. **Religious and "traditional values" movements.** How do transnational religious-right networks spread the rhetoric between countries?
 3. **The gender-critical movement.** Where did the UK gender-critical movement come from, and how did its arguments move into US right-wing politics?
 4. **Media.** How much coverage do major outlets give to anti-trans framing, and has that been measured (for example by GLAAD or Trans Journalists Association media studies)?
-5. **Platforms.** What do platform transparency reports and researchers say about enforcement of hate-speech rules on X, Meta and Bluesky since 2022?
+5. **Platforms.** What do platform transparency reports and researchers say about enforcement of hate-speech rules on Twitter, Meta and Bluesky since 2022?
 6. **Foreign share.** Has any study measured the share of anti-trans rhetoric coming from state influence operations, as opposed to domestic accounts?
 7. **Harm.** What does research show about links between online anti-trans rhetoric and offline harassment, violence, or mental-health outcomes for trans people?
 8. **Each talking point's origin.** For each entry in [Talking points](talking-points.md), the earliest documented use and who popularised it.
