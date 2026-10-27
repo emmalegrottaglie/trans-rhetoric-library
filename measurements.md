@@ -12,6 +12,7 @@ Counts taken for the Bot Traffic Monitor in October 2026. Only counts were colle
 
 - **A count includes people quoting a phrase to object.** On Bluesky, hand checks found most posts using anti-trans terms were pushing back. On Twitter the share has not been checked.
 - **Phrases have other meanings.** "Groomer" is mostly pet grooming on Bluesky; "TRAs" matches the Spanish word "tras"; "gaping wound" is mostly about injuries.
+- **Lists of accounts are not used.** Counting what a listed set of accounts posts (for example the accounts marked through Soupcan) would mean storing ordinary users' names. The counts here are of words and phrases, whoever posts them.
 - **A count is not a count of people.** One account can post many times; reposts are counted separately.
 
 ## Twitter
