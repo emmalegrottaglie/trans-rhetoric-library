@@ -1,3 +1,9 @@
+---
+title: "Measurements"
+eyebrow: the numbers
+description: "How often the phrases appear on X and Bluesky, with dates, method and what a count can't show."
+---
+
 # Measurements
 
 Counts taken for the Bot Traffic Monitor in October 2026. Only counts were collected: no post text, usernames or account IDs were stored, except where a hand check is described, and those posts were read and not kept.

@@ -1,6 +1,12 @@
+---
+title: "Talking points"
+eyebrow: the catalogue
+description: "Each slur and claim: what it does, who documents it, and what we measured."
+---
+
 # Talking points and slurs
 
-Each entry: what it claims or does, who documents it, and what we measured. Rebuttals are linked, not rewritten. Counts are explained in [measurements.md](measurements.md).
+Each entry: what it claims or does, who documents it, and what we measured. Rebuttals are linked, not rewritten. Counts are explained in [Measurements](measurements.md).
 
 ## Slurs
 

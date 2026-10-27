@@ -1,3 +1,10 @@
+---
+title: "Where it comes from, and why"
+eyebrow: origins
+description: "What checked sources show about where anti-trans rhetoric comes from and why it spreads, kept apart from what is still a question."
+style: timeline
+---
+
 # Where it comes from, and why
 
 What is documented so far, kept separate from what is still a question. This file is thin on purpose: it only holds what a checked source supports.
@@ -40,4 +47,4 @@ These need research, each answered from checked sources:
 5. **Platforms.** What do platform transparency reports and researchers say about enforcement of hate-speech rules on X, Meta and Bluesky since 2022?
 6. **Foreign share.** Has any study measured the share of anti-trans rhetoric coming from state influence operations, as opposed to domestic accounts?
 7. **Harm.** What does research show about links between online anti-trans rhetoric and offline harassment, violence, or mental-health outcomes for trans people?
-8. **Each talking point's origin.** For each entry in talking-points.md, the earliest documented use and who popularised it.
+8. **Each talking point's origin.** For each entry in [Talking points](talking-points.md), the earliest documented use and who popularised it.

@@ -1,0 +1,60 @@
+---
+title: Home
+---
+<header class="page-head hero">
+  <p class="eyebrow">welcome to the library</p>
+  <h1 class="page-title">Anti-trans rhetoric, traced to its sources</h1>
+  <p class="page-lead">A research library on anti-trans rhetoric: the talking points, where they come from, who spreads them and why, and how often they appear online. Every claim traces to a source that was read on the original page, and every measurement says how it was taken.</p>
+</header>
+
+<h2>The library</h2>
+<div class="section-cards">
+  {% for item in site.data.nav %}{% if item.blurb %}
+  <a class="section-card" href="{{ item.url | relative_url }}">
+    <span class="card-num">{{ forloop.index0 | prepend: '0' | slice: -2, 2 }}</span>
+    <span class="card-title">{{ item.title }}</span>
+    <span class="card-text">{{ item.blurb }}</span>
+    <span class="card-go">Open →</span>
+  </a>
+  {% endif %}{% endfor %}
+</div>
+
+<h2>What we know so far</h2>
+<p>Four numbers from the library, each with its source. <a href="{{ '/origins.html' | relative_url }}">Origins</a> has the full picture.</p>
+<div class="stats">
+  <div class="stat">
+    <span class="stat-value">≈250×</span>
+    <span class="stat-label">as common on X as on Bluesky: the slur "troon" in original English posts, about 2,550 a day against about 10</span>
+    <span class="stat-source">Our counts · Oct 2026</span>
+  </div>
+  <div class="stat">
+    <span class="stat-value">+62%</span>
+    <span class="stat-label">tweets a day using one transphobic slur after Twitter changed owner, from 3,159 to 5,117</span>
+    <span class="stat-source">CCDH · 2022</span>
+  </div>
+  <div class="stat">
+    <span class="stat-value">989,547</span>
+    <span class="stat-label">tweets using slurs such as "groomer" about LGBTQ+ people, January to July 2022</span>
+    <span class="stat-source">CCDH &amp; HRC · 2022</span>
+  </div>
+  <div class="stat">
+    <span class="stat-value">46%</span>
+    <span class="stat-label">of targeted anti-LGBTQ+ hate in violent extremist channels was anti-trans, around the 2024 US election</span>
+    <span class="stat-source">ISD · Aug 2024 to Jan 2025</span>
+  </div>
+</div>
+<p>What none of these show: no source we have checked measures what share of anti-trans rhetoric online is foreign or automated. Claims that it is "mostly bots" or "mostly Russian" are not supported by anything here.</p>
+
+<h2>How this library works</h2>
+<div class="rules">
+  <div class="rule"><h3>Checked sources only</h3><p>A claim is cited only after its source was read on the original page. Anything seen only in a summary is marked <em>unverified</em>.</p></div>
+  <div class="rule"><h3>Claims are claims</h3><p>"Bot", "coordinated" or "foreign" is reported as what a named source found, never as our own finding unless we measured it.</p></div>
+  <div class="rule"><h3>Public figures only</h3><p>Only public figures and organisations are named, for what a source documents them saying or doing. No ordinary users.</p></div>
+  <div class="rule"><h3>Numbers say what they can't show</h3><p>A count of a phrase includes people quoting it to object. Unknown values are shown as —, never guessed.</p></div>
+</div>
+
+<h2>Beth's Anti-Transphobia Library</h2>
+<p><a href="https://bethylamine.github.io/">Beth's Anti-Transphobia Library</a> catalogues gender-critical arguments, their code words and rebuttals, and is the better place for a rebuttal to a specific argument. This library does not copy it. It links to Beth's pages where they cover a point, and adds what Beth's does not focus on: measurements of how often the rhetoric appears, and documentation of where it comes from, including organised and foreign influence campaigns.</p>
+
+<h2>Where this started</h2>
+<p>The library grew in October 2026 out of research for the <a href="https://emmalegrottaglie.github.io/Russian-Bot-Monitor/">Bot Traffic Monitor</a>, which tracks political activity online and added anti-trans searches on X.</p>

@@ -1,3 +1,9 @@
+---
+title: "Sources"
+eyebrow: the evidence
+description: "Every source, what it says in our words, and whether it was checked on the original page."
+---
+
 # Sources
 
 Every source, in our words. **Checked** means read on the original page. *Unverified* means seen only in a search summary or a report about it; do not rely on it until checked.

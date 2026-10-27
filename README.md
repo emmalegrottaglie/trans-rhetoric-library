@@ -29,6 +29,18 @@ A research library on anti-trans rhetoric: the talking points, where they come f
 
 Started in October 2026 from research done for the [Bot Traffic Monitor](https://emmalegrottaglie.github.io/Russian-Bot-Monitor/), which tracks political activity online and added anti-trans searches on X. That project's `docs/NARRATIVES.md` holds the original notes.
 
-## Plans
+## Website
 
-- **Website.** The library will become its own GitHub Pages site (`<user>.github.io/<repo>`) once the content has been checked. It is written in plain Markdown so that GitHub Pages can publish it directly, or a static site can be built from it later, possibly with the terminal design kit from the Bot Traffic Monitor. Until then it stays local.
+The library is also a website, built by GitHub Pages with Jekyll from these same Markdown files. Its look follows Emma's interactive CV: the trans-flag palette, Fraunces, Hanken Grotesk and JetBrains Mono, and light and dark themes.
+
+| Path | What it does |
+|---|---|
+| `index.html` | The home page |
+| `_layouts/default.html` | The page frame: sidebar, navigation, theme toggle |
+| `_data/nav.yml` | The sidebar's list of pages, with the blurbs shown on the home page |
+| `assets/css/site.css`, `assets/js/site.js` | Styles, and the script that turns each `###` entry into a card and builds the on-page list |
+| `_config.yml` | Site settings, including `baseurl`, which must match the repository name |
+
+Each Markdown page starts with a short front matter block (`title`, `eyebrow`, `description`). Link between pages with relative links to the `.md` files, as now; GitHub Pages turns them into links between pages.
+
+To preview locally, install Jekyll once (`gem install jekyll jekyll-relative-links kramdown-parser-gfm`), then run `jekyll serve` in this folder and open http://127.0.0.1:4000/trans-rhetoric-library/.

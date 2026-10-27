@@ -1,0 +1,15 @@
+# Sidebar navigation, in order. `url` is relative to the site root.
+- title: Home
+  url: /
+- title: Talking points
+  url: /talking-points.html
+  blurb: Each slur and claim, what it does, who documents it, and what we measured.
+- title: Origins
+  url: /origins.html
+  blurb: What checked sources show about where the rhetoric comes from and why it spreads, and the open questions.
+- title: Measurements
+  url: /measurements.html
+  blurb: How often the phrases appear on X and Bluesky, with dates, method and what a count can't show.
+- title: Sources
+  url: /sources.html
+  blurb: Every source, what it says in our words, and whether it was checked on the original page.

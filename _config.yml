@@ -1,0 +1,32 @@
+title: Trans Rhetoric Library
+description: >-
+  A research library on anti-trans rhetoric: the talking points, where they
+  come from, who spreads them, and how often they appear online. Every claim
+  traces to a source read on the original page.
+url: "https://emmalegrottaglie.github.io"
+baseurl: "/trans-rhetoric-library"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# GitHub Pages turns links between .md files into links between pages.
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# README.md is the repository's own front page on GitHub; the site has index.html.
+exclude:
+  - README.md
+  - CLAUDE.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
